@@ -110,6 +110,7 @@
 
 * [MLSBD](https://mlsbd.co/) - Movies / TV
 * [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
+* [BDIX Server Test](https://bdix.link/test/server) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 * [Bhoot FM](https://bhoot-fm.com/) - Bhoot FM Archive / Paranormal Radio Show
 
