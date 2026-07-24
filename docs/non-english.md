@@ -108,6 +108,7 @@
 
 ## ▷ Downloading / ডাউনলোডিং
 
+* ⭐ **[TorrentBD](https://www.torrentbd.net/)** - Movies / TV / Games / Music / Anime / E-Books / Tutorials
 * [MLSBD](https://mlsbd.co/) - Movies / TV
 * [⁠MovieDokan](https://moviedokan.my/) - Movies / TV
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
